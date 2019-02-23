@@ -1,7 +1,7 @@
 # family-search-duplicates
 
 To run:
-1) Build and run src/main/java/server/Server
+1) Build and run src/main/java/server/Main
 2) go to localhost:8080
 3) log in on Family Search
 4) input the filename you want for your output
